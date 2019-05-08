@@ -22,4 +22,4 @@ You have to provide `subscriptionKey` (line 12) and service endpoint in `uriBase
 ## Useful links:
 - [Azure 4 students](https://azure.microsoft.com/en-us/free/students/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-- Intelligent Kiosk - [aplikacja](https://www.microsoft.com/en-us/p/intelligent-kiosk/9nblggh5qd84),  [source code](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
+- Intelligent Kiosk - [app](https://www.microsoft.com/en-us/p/intelligent-kiosk/9nblggh5qd84),  [source code](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
