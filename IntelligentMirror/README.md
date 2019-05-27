@@ -3,6 +3,8 @@
 
 ### Workshop shows how to build an UWP application which uses camera for capturing photos and sends them to Face Service on Microsoft Azure cloud to get information about captured faces.
 
+Launch the solution using `Samples/IntelligentMirror/cs/IntelligentMirror.sln`
+
 *Code is based on [Microsoft UWP samples repository](https://github.com/Microsoft/Windows-universal-samples) and [Face API quickstart](https://docs.microsoft.com/en-us/azure/cognitive-services/face/quickstarts/csharp).* 
 *<br>`Face.cs` file contents were generated using [json2csharp](http://json2csharp.com/) service.*
 
