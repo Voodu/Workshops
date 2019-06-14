@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "uploadedanimals/{name}",
+      "connection": "AzureWebJobsStorage"
+    }
+  ]
+}
